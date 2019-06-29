@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Educacion DW", "Integration Services Project1\Educacion DW.dtproj", "{0DA6CF99-F9B5-4B7A-8258-9C2ADB1EA228}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DA6CF99-F9B5-4B7A-8258-9C2ADB1EA228}.Development|Default.ActiveCfg = Development
+		{0DA6CF99-F9B5-4B7A-8258-9C2ADB1EA228}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39D67101-D0FE-4F31-9452-EE5F1A3B4D91}
+	EndGlobalSection
+EndGlobal
